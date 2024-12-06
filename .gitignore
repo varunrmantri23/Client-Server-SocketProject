@@ -1,0 +1,15 @@
+# Ignore all executable files
+server
+client
+
+# Ignore object files
+*.o
+
+# Ignore other build artifacts
+*.out
+*.exe
+*.bin
+*.elf
+
+# Include all .c files
+!*.c
